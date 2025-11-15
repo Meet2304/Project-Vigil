@@ -1,6 +1,6 @@
 
 <p align = 'center'>
-  <img src = 'https://github.com/Meet2304/Project-Phoenix/blob/main/Project-Phoenix-Header_16to9.png'>
+  <img src = 'https://github.com/Meet2304/Project-Vigil/blob/main/Project%20Vigil_Header_v0.1.png'>
 </p>
 
 <h1 align="center">Project-Vigil</h1>
