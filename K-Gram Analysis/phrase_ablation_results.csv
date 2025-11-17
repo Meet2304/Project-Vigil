@@ -1,0 +1,31 @@
+phrase,accuracy_drop,total_flips,malicious_flips,benign_flips,flip_rate
+business or science and technology,0.0,0,0,0,0.0
+is this piece of news,0.0,0,0,0,0.0
+is this piece of news regarding,0.0,0,0,0,0.0
+is this piece of news regarding world,0.0,0,0,0,0.0
+news regarding world politics sports,0.0,0,0,0,0.0
+news regarding world politics sports business,0.0,0,0,0,0.0
+news regarding world politics sports business or,0.0,0,0,0,0.0
+of news regarding world politics,0.0,0,0,0,0.0
+of news regarding world politics sports,0.0,0,0,0,0.0
+of news regarding world politics sports business,0.0,0,0,0,0.0
+piece of news regarding world,0.0,0,0,0,0.0
+piece of news regarding world politics,0.0,0,0,0,0.0
+piece of news regarding world politics sports,0.0,0,0,0,0.0
+politics sports business or science,0.0,0,0,0,0.0
+politics sports business or science and,0.0,0,0,0,0.0
+politics sports business or science and technology,0.0,0,0,0,0.0
+regarding world politics sports business,0.0,0,0,0,0.0
+regarding world politics sports business or,0.0,0,0,0,0.0
+regarding world politics sports business or science,0.0,0,0,0,0.0
+sports business or science and,0.0,0,0,0,0.0
+sports business or science and technology,0.0,0,0,0,0.0
+this piece of news regarding,0.0,0,0,0,0.0
+this piece of news regarding world,0.0,0,0,0,0.0
+this piece of news regarding world politics,0.0,0,0,0,0.0
+world politics sports business or,0.0,0,0,0,0.0
+world politics sports business or science,0.0,0,0,0,0.0
+world politics sports business or science and,0.0,0,0,0,0.0
+best describes this news article,0.0,0,0,0,0.0
+label best describes this news,0.0,0,0,0,0.0
+label best describes this news article,0.0,0,0,0,0.0

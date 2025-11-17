@@ -1,0 +1,145 @@
+{
+  "config": {
+    "ngram_range": [
+      5,
+      7
+    ],
+    "sample_size": 10000,
+    "total_phrases": 384
+  },
+  "baseline_accuracy": 0.5,
+  "top_10_malicious_phrases": [
+    {
+      "rank": 1,
+      "phrase": "business or science and technology",
+      "mal_ben_ratio": 16.743157806499163,
+      "malicious_count": 435,
+      "benign_count": 0
+    },
+    {
+      "rank": 2,
+      "phrase": "is this piece of news",
+      "mal_ben_ratio": 16.743157806499163,
+      "malicious_count": 435,
+      "benign_count": 0
+    },
+    {
+      "rank": 3,
+      "phrase": "is this piece of news regarding",
+      "mal_ben_ratio": 16.743157806499163,
+      "malicious_count": 435,
+      "benign_count": 0
+    },
+    {
+      "rank": 4,
+      "phrase": "is this piece of news regarding world",
+      "mal_ben_ratio": 16.743157806499163,
+      "malicious_count": 435,
+      "benign_count": 0
+    },
+    {
+      "rank": 5,
+      "phrase": "news regarding world politics sports",
+      "mal_ben_ratio": 16.743157806499163,
+      "malicious_count": 435,
+      "benign_count": 0
+    },
+    {
+      "rank": 6,
+      "phrase": "news regarding world politics sports business",
+      "mal_ben_ratio": 16.743157806499163,
+      "malicious_count": 435,
+      "benign_count": 0
+    },
+    {
+      "rank": 7,
+      "phrase": "news regarding world politics sports business or",
+      "mal_ben_ratio": 16.743157806499163,
+      "malicious_count": 435,
+      "benign_count": 0
+    },
+    {
+      "rank": 8,
+      "phrase": "of news regarding world politics",
+      "mal_ben_ratio": 16.743157806499163,
+      "malicious_count": 435,
+      "benign_count": 0
+    },
+    {
+      "rank": 9,
+      "phrase": "of news regarding world politics sports",
+      "mal_ben_ratio": 16.743157806499163,
+      "malicious_count": 435,
+      "benign_count": 0
+    },
+    {
+      "rank": 10,
+      "phrase": "of news regarding world politics sports business",
+      "mal_ben_ratio": 16.743157806499163,
+      "malicious_count": 435,
+      "benign_count": 0
+    }
+  ],
+  "top_10_impact_phrases": [
+    {
+      "rank": 1,
+      "phrase": "business or science and technology",
+      "accuracy_drop": 0.0,
+      "prediction_flips": 0
+    },
+    {
+      "rank": 2,
+      "phrase": "is this piece of news",
+      "accuracy_drop": 0.0,
+      "prediction_flips": 0
+    },
+    {
+      "rank": 3,
+      "phrase": "is this piece of news regarding",
+      "accuracy_drop": 0.0,
+      "prediction_flips": 0
+    },
+    {
+      "rank": 4,
+      "phrase": "is this piece of news regarding world",
+      "accuracy_drop": 0.0,
+      "prediction_flips": 0
+    },
+    {
+      "rank": 5,
+      "phrase": "news regarding world politics sports",
+      "accuracy_drop": 0.0,
+      "prediction_flips": 0
+    },
+    {
+      "rank": 6,
+      "phrase": "news regarding world politics sports business",
+      "accuracy_drop": 0.0,
+      "prediction_flips": 0
+    },
+    {
+      "rank": 7,
+      "phrase": "news regarding world politics sports business or",
+      "accuracy_drop": 0.0,
+      "prediction_flips": 0
+    },
+    {
+      "rank": 8,
+      "phrase": "of news regarding world politics",
+      "accuracy_drop": 0.0,
+      "prediction_flips": 0
+    },
+    {
+      "rank": 9,
+      "phrase": "of news regarding world politics sports",
+      "accuracy_drop": 0.0,
+      "prediction_flips": 0
+    },
+    {
+      "rank": 10,
+      "phrase": "of news regarding world politics sports business",
+      "accuracy_drop": 0.0,
+      "prediction_flips": 0
+    }
+  ]
+}
